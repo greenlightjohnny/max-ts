@@ -3,7 +3,6 @@ type HeaderProps = {
   text?: string
 }
 
-useEffect(() => {}, [])
 const Header = (props: HeaderProps) => {
   return (
     <div>
